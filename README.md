@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run: 
-you can see this output published 
+you can run and check this output published on  
 ![image](https://github.com/dharanicb/type-master/assets/127922015/d6b4faa5-4468-4384-aa32-4e61f5c72ca6)
 
 ### `npm start`
