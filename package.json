@@ -1,7 +1,7 @@
 {
-  "name": "typing-master",
+  "name": "type-master",
   "version": "0.1.0",
-  "homepage": "https://dharanicb1998.github.io/type-master",
+  "homepage": "https://dharanicb.github.io/type-master",
   "dependencies": {
     "highcharts": "^6.1.0",
     "immutable": "^3.8.2",
@@ -15,13 +15,13 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
